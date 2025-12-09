@@ -1,6 +1,6 @@
 package M2_Activity3;
 
-public class Activity3 {
+public class M2Activity3 {
 
 	public static void main(String[] args) {	
 		// Using parameter
